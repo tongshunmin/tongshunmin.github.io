@@ -1,6 +1,8 @@
-### 我的博客
+### 感谢
+感谢coolnameismy，整个框架都是fork自coolnameismy/coolnameismy.github.io。
 
-地址：[http://liuyanwei.jumppo.com](http://liuyanwei.jumppo.com)
+### 我的博客
+地址：[http://blog.mineki.cn](http://blog.mineki.cn)
 
 
 ### 安装说明
@@ -17,7 +19,7 @@
 
 fork程序后如果要保留我的文章，请注明出处。
 
-github博客系统使用的是jekyll搭建的，关于博客详细搭建，可以参考我的文章：[在github上搭建jekyll博客](http://liuyanwei.jumppo.com/2014/02/12/how-to-deploy-a-blog-on-github-by-jekyll.html)
+github博客系统使用的是jekyll搭建的，关于博客详细搭建，可以参考coolnameismy的文章：[在github上搭建jekyll博客](http://liuyanwei.jumppo.com/2014/02/12/how-to-deploy-a-blog-on-github-by-jekyll.html)
 
 
 ### 更新内容
