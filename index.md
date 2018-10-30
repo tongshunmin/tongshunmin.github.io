@@ -16,9 +16,6 @@ title: Welcome
 ## 博客中的技术类型
 ---
 
-![](assets/images/qrcode.jpg)
-
-
 技术上熟悉嵌入式C/C++,C#,JAVA等开发语言，开发平台Windows,Linux、Android及IOS平时也会用到一些。目前从事个人身份识别及生物识别等行业产品研发。所以博客中主要包含的技术类型主要是这些，另外也会写一个自己不熟悉但是感兴趣的内容，和大家一起学习。
 
 -   Windows
