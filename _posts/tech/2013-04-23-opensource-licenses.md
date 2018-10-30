@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 五中常见的开源协议整理(BSD,Apache,GPL,LGPL,MIT)
-category: 技术
+category: 其它
 tags: 开源,BSD,Apache,GPL,LGPL,MIT
 description: 最近做一个项目用了很多开源的组建，项目有可能会发布，所以提前整理整理各个开源协议，有助于项目发展
 ---
@@ -69,3 +69,7 @@ MIT是和BSD一样宽范的许可协议,作者只想保留版权,而无任何其
 [6]: http://opensource.org/licenses/mit-license.php
 [7]: http://www.ruanyifeng.com
 [8]: http://7u2ho6.com1.z0.glb.clouddn.com/tech-licence-different.png
+
+##  最后
+
+感谢收看，如果对大家有帮助，请[github上follow和star](https://github.com/tongshunmin)，本文发布在[佟顺民的技术博客](http://blog.mineki.cn/)，转载请注明出处

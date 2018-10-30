@@ -21,8 +21,9 @@ title: Welcome
 -   Windows
 -   Linux
 -   Android
--   IOS
--   其他（数据库，网站部署，博客建站seo优化，个人生活等会少量涉及）
+-   IOS（IOS系统蓝牙开发）
+-   Web（网站开发、微服务等）
+-   其他（数据库，博客建站seo优化，个人生活等会少量涉及）
 
 ## 博客更新频率
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: tomcat部署绑定多个域名
-category: 技术
+category: WEB
 tags: tomcat
 keywords: tomcat 
 description:
@@ -27,3 +27,7 @@ description:
 ````
 
 ##### 4:若添加多个域名，可以添加多个Host段落
+
+##  最后
+
+感谢收看，如果对大家有帮助，请[github上follow和star](https://github.com/tongshunmin)，本文发布在[佟顺民的技术博客](http://blog.mineki.cn/)，转载请注明出处

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我每天都在github上做些什么
-category: 生活
+category: 其他
 tags:
 keywords:
 description: 
@@ -48,4 +48,6 @@ description:
 每天写写repo，写技术博客，看看大神们又关注了哪些repo，看看自己关注的repo，阅读些文章，每天有许多的事情可以做。看看自己的follow和star每天一点点的增加，体会每天在这过程中的学习与成长。
 
 ---
-[我的github主页，欢迎大家和我一起交流和学习](https://github.com/coolnameismy)
+##  最后
+
+感谢收看，如果对大家有帮助，请[github上follow和star](https://github.com/tongshunmin)，本文发布在[佟顺民的技术博客](http://blog.mineki.cn/)，转载请注明出处
