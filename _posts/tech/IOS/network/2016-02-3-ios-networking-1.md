@@ -133,13 +133,6 @@ function sleep(milliSeconds) {
     -   在处理返回数据前，请验证error和http响应状态码
     -   不能使用网络请求的高级功能，如验证，进度，流传输,取消
 
+## 最后
 
-
-
-
-## demo
----
-
-[本文的demo下载](https://github.com/coolnameismy/demo/tree/master/network-demo)
-
-感谢收看，如果对大家有帮助，请[github上follow和star](https://github.com/coolnameismy)，本文发布在[刘彦玮的技术博客](http://liuyanwei.jumppo.com/)，转载请注明出处
+感谢收看，如果对大家有帮助，请[github上follow和star](https://github.com/tongshunmin)，本文发布在[佟顺民的技术博客](http://blog.mineki.cn/)，转载请注明出处

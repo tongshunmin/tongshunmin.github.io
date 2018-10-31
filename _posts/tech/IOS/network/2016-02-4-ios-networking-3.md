@@ -217,14 +217,9 @@ https的认证过程，在NSURLConnection中使用NSURLConnectionDelegate中的�
 
 ````
 
+## 最后
 
-## demo
----
-
-[本文的demo下载](https://github.com/coolnameismy/demo/tree/master/network-demo)
-
-感谢收看，如果对大家有帮助，请[github上follow和star](https://github.com/coolnameismy)，本文发布在[刘彦玮的技术博客](http://liuyanwei.jumppo.com/)，转载请注明出处
-
+感谢收看，如果对大家有帮助，请[github上follow和star](https://github.com/tongshunmin)，本文发布在[佟顺民的技术博客](http://blog.mineki.cn/)，转载请注明出处
 
 ## 参考阅读
 
