@@ -22,7 +22,8 @@ description:
         perl objects.pl objects.txt obj_mac.num obj_mac.h
     
     3、在crypto/evp/下添加e_ssf33.c，内容如下：
-````c   
+    
+```` c   
     #include <stdio.h>
     #include "cryptlib.h"
     #ifndef OPENSSL_NO_RC4
@@ -82,6 +83,7 @@ description:
     
     #endif
 ````    
+    
     4、修改crypto/evp/evp.h，添加对算法的声明，如下
         
         const EVP_CIPHER *EVP_ssf33(void);
@@ -93,6 +95,7 @@ description:
     6、修改crypto/evp/Makefile，如下
     
    ![]({{site.url}}/assets/uploads/openssl-custom-algorithms-1.png)
+    
     
     7、完成
 
