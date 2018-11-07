@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39edcd33-6137-43ef-abe0-1c27b3ef460b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/_posts/course/2015-07-17-ios-BLE-0.md" afterPath="$PROJECT_DIR$/_posts/course/2015-07-17-ios-BLE-0.md" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/openssl-custom-algorithms-1.png.png" afterPath="$PROJECT_DIR$/assets/uploads/openssl-custom-algorithms-1.png" />
     </list>
     <ignored path="coolnameismy.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -137,37 +136,33 @@
             <path>
               <item name="tongshunmin.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="tongshunmin.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tongshunmin.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tongshunmin.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tongshunmin.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tongshunmin.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="tech" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tongshunmin.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tongshunmin.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="tech" type="462c0819:PsiDirectoryNode" />
-              <item name="IOS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tongshunmin.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tongshunmin.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="tech" type="462c0819:PsiDirectoryNode" />
-              <item name="linux" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tongshunmin.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="tongshunmin.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tongshunmin.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tongshunmin.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="postImages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tongshunmin.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tongshunmin.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="postImages" type="462c0819:PsiDirectoryNode" />
+              <item name="ios" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tongshunmin.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tongshunmin.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="postImages" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tongshunmin.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -285,7 +280,7 @@
       <option name="presentableId" value="Default" />
       <updated>1428224840430</updated>
       <workItem from="1541582120164" duration="79000" />
-      <workItem from="1541582203983" duration="900000" />
+      <workItem from="1541582203983" duration="1321000" />
     </task>
     <task id="LOCAL-00001" summary="创建">
       <created>1541582890077</created>
@@ -294,11 +289,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541582890077</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="20181107">
+      <created>1541583129792</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1541583129792</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="979000" />
+    <option name="totallyTimeSpent" value="1400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="151" y="37" width="1474" height="1000" extended-state="0" />
@@ -315,7 +317,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27369165" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27369165" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496464" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -350,14 +352,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="创建" />
-    <option name="LAST_COMMIT_MESSAGE" value="创建" />
+    <MESSAGE value="20181107" />
+    <option name="LAST_COMMIT_MESSAGE" value="20181107" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/tech/2014-02-12-how-to-deploy-a-blog-on-github-by-jekyll.md" />
     <entry file="file://$PROJECT_DIR$/_posts/tech/2013-04-23-opensource-licenses.md" />
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -573,7 +575,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/uploads/openssl-custom-algorithms-1.png.png">
+    <entry file="file://$PROJECT_DIR$/assets/uploads/openssl-custom-algorithms-1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/postImages/ios/darwbase1.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
