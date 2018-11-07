@@ -8,11 +8,9 @@ description:
 ---
 
 ## 引言
----
 >    本文以添加自定义算法EVP_ssf33为例，介绍在OpenSSL中添加自定义加密算法的方法。
 
 ## 步骤
----
     1、修改crypto/object/objects.txt，注册算法OID，如下：
     
         rsadsi 3 255    : SSF33     : ssf33
@@ -23,7 +21,7 @@ description:
     
     3、在crypto/evp/下添加e_ssf33.c，内容如下：
     
-```` c   
+````c   
     #include <stdio.h>
     #include "cryptlib.h"
     #ifndef OPENSSL_NO_RC4

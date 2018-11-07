@@ -17,18 +17,20 @@ description:
 1、资源下载
 
  [http://www.openssl.org/source/old/1.0.1/openssl-1.0.1l.tar.gz](http://www.openssl.org/source/old/1.0.1/openssl-1.0.1l.tar.gz)
-
+ 
 2、编译安装
+ 
  [http://www.openssl.org/source/old/1.0.1/openssl-1.0.1l.tar.gz](http://www.openssl.org/source/old/1.0.1/openssl-1.0.1l.tar.gz)
 
 ## API文档
 
  [http://www.openssl.org/docs/crypto/crypto.html](http://www.openssl.org/docs/crypto/crypto.html)
+ 
  [http://www.openssl.org/docs/ssl/ssl.html](http://www.openssl.org/docs/ssl/ssl.html)
 
 ## 编程示例
 
-###程序1：openssl堆栈示例 
+### 程序1：openssl堆栈示例 
 
 ````c++
     #include <stdio.h>
@@ -114,9 +116,11 @@ description:
 ````     
 
 ####编译
+
     gcc example1.c -o example1 -L/usr/lib -lssl -lcrypto
     
 ####运行
+
    ![]({{site.url}}/assets/uploads/openssl-program-1.png)
 
 ###程序2：openssl哈希表示例 
@@ -213,9 +217,11 @@ description:
 ```` 
 
 ####编译
+
     gcc example2.c -o example2 -L/usr/lib -lssl -lcrypto
     
 ####运行
+
    ![]({{site.url}}/assets/uploads/openssl-program-2.png)
    
 ###程序3：openssl内存管理示例   
@@ -245,6 +251,7 @@ description:
 ```` 
 
 ####编译
+
     gcc example3.c -o example3 -L/usr/lib -lssl -lcrypto
     
 ####运行
