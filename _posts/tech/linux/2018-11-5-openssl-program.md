@@ -115,19 +115,18 @@ int main()
 }
 ````     
 
-###编译
+### 编译
 
 ```` 
     gcc example1.c -o example1 -L/usr/lib -lssl -lcrypto
 ````     
 
-###运行
+### 运行
+ 
+![]({{site.url}}/assets/uploads/openssl-program-1.png)
+ 
 
-```` 
-   ![]({{site.url}}/assets/uploads/openssl-program-1.png)
-```` 
-
-##程序2：openssl哈希表示例 
+## 程序2：openssl哈希表示例 
    
 ````c
 #include <string.h>
@@ -220,19 +219,17 @@ int main()
 }    
 ```` 
 
-###编译
+### 编译
 
 ````
     gcc example2.c -o example2 -L/usr/lib -lssl -lcrypto
 ````
     
-###运行
+### 运行
 
-````
    ![]({{site.url}}/assets/uploads/openssl-program-2.png)
-````
    
-##程序3：openssl内存管理示例   
+## 程序3：openssl内存管理示例   
 
 ````c
 #include <openssl/crypto.h>
@@ -258,17 +255,15 @@ int main()
 }
 ```` 
 
-###编译
+### 编译
 
 ````
     gcc example3.c -o example3 -L/usr/lib -lssl -lcrypto
 ````
     
-###运行
+### 运行
 
-````
    ![]({{site.url}}/assets/uploads/openssl-program-3.png)
-````
 
 
 感谢收看，如果对大家有帮助，请[github上follow和star](https://github.com/tongshunmin)，本文发布在[佟顺民的技术博客](http://blog.mineki.cn/)，转载请注明出处
