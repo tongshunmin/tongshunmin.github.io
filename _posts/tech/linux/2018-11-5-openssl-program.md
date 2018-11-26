@@ -270,6 +270,4 @@ int main()
 
 ##  参考
 使用 DEF 文件从 DLL 导出
-[Module-Definition (.Def) Files](http://my.oschina.net/hondfy/blog/165675)
-
-
+[Module-Definition (.Def) Files](/2018/10/31/windows-export-lib.html)
